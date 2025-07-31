@@ -1,5 +1,9 @@
 # 🎓 My Awards and Certifications
 
+![Repo Size](https://img.shields.io/github/repo-size/Le-Giang-3003/certificates)
+![Last Commit](https://img.shields.io/github/last-commit/Le-Giang-3003/certificates)
+![Markdown](https://img.shields.io/badge/Written%20in-Markdown-blue)
+
 Welcome to my digital portfolio of academic honors and professional certifications.  
 This repository showcases my continued efforts in personal development, academic excellence, and technical training.
 
