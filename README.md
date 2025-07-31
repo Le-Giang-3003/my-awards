@@ -13,30 +13,13 @@ Welcome to my digital portfolio of academic honors and professional certificatio
 \## 🏅 Academic Honors
 
 
+## 🏅 Academic Honors
 
-\*\*Honorable Student – Spring 2024\*\*  
-
-Awarded by \[Your University Name]  
-
-\[View Certificate (PDF)](./certificates/2024\_Spring\_HonorableStudent.pdf)
-
-
-
-\*\*Honorable Student – Summer 2024\*\*  
-
-Awarded by \[Your University Name]  
-
-\[View Certificate (PDF)](./certificates/2024\_Summer\_HonorableStudent.pdf)
-
-
-
-\*\*Honorable Student – Fall 2024\*\*  
-
-Awarded by \[Your University Name]  
-
-\[View Certificate (PDF)](./certificates/2024\_Fall\_HonorableStudent.pdf)
-
-
+| Semester        | Title                   | Issuer                | Certificate |
+|-----------------|-------------------------|-----------------------|-------------|
+| Spring 2024     | Honorable Student       | FPT University HCM    | [View PDF](./certificates/2024_Spring_HonorableStudent.pdf) |
+| Summer 2024     | Honorable Student       | FPT University HCM    | [View PDF](./certificates/2024_Summer_HonorableStudent.pdf) |
+| Fall 2024       | Honorable Student       | FPT University HCM    | [View PDF](./certificates/2024_Fall_HonorableStudent.pdf) |
 
 ---
 
