@@ -51,3 +51,4 @@ This repository showcases my continued efforts in personal development, academic
 Feel free to reach out via:  
 - [📇 LinkedIn](https://www.linkedin.com/in/giang-lê-129917316)  
 - [💻 GitHub](https://github.com/Le-Giang-3003)
+- 📩 Email: [gianglse184279@fpt.edu.vn](mailto:gianglse184279@fpt.edu.vn)
