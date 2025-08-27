@@ -33,7 +33,8 @@ This repository showcases my continued efforts in personal development, academic
 | Public Administration & Governance                        | Coursera           | [PDF](./certificates/Public_Administration_and_Governance.pdf) |
 | Business & Organizational Management                      | Coursera           | [PDF](./certificates/Business_and_Organizational_Management.pdf) |
 | Customer Experience & Digital Marketing                   | Coursera           | [PDF](./certificates/Customer_Experience_and_Digital_Marketing.pdf) |
-
+| Law and ethics in digital technology                      | Coursera           | [PDF](./certificates/Law_and_ethics_in_digital_technology.pdf) |
+| Data governance and information security                  | Coursera           | [PDF](./certificates/Data_governance_and_information_security.pdf) |
 
 ---
 
