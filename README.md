@@ -42,10 +42,10 @@ This repository showcases my continued efforts in personal development, academic
 
 ## 📌 Notes
 
-- 📁 All certificates are stored in the `certificates/` directory of this repository.  
+- All certificates are stored in the `certificates/` directory of this repository.  
 - Most certificates were completed via **Coursera** and other professional learning platforms.  
 - Some Vietnamese-language certificates are translated here for clarity.  
-- 🛠️ This repository will be updated regularly with new achievements and credentials.
+- This repository will be updated regularly with new achievements and credentials.
 
 ---
 
