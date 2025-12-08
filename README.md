@@ -36,7 +36,7 @@ This repository showcases my continued efforts in personal development, academic
 | Law and ethics in digital technology                                    | Coursera           | [PDF](./certificates/Law_and_ethics_in_digital_technology.pdf) |
 | Data governance and information security                                | Coursera           | [PDF](./certificates/Data_governance_and_information_security.pdf) |
 | Education and Digital Human Resource Development                        | Coursera           | [PDF](./certificates/Education_and_Digital_Human_Resource_Development.pdf)     |
-| Project management and sustaining innovation in digital transformation  | Coursera           | [PDF](./certificates/Project management and sustaining innovation in digital transformation.pdf|
+| Project management and sustaining innovation in digital transformation  | Coursera           | [PDF](./certificates/Project%20management%20and%20sustaining%20innovation%20in%20digital%20transformation.pdf|
 
 ---
 
