@@ -37,6 +37,7 @@ This repository showcases my continued efforts in personal development, academic
 | Data governance and information security                                | Coursera           | [PDF](./certificates/Data_governance_and_information_security.pdf) |
 | Education and Digital Human Resource Development                        | Coursera           | [PDF](./certificates/Education_and_Digital_Human_Resource_Development.pdf)     |
 | Project management and sustaining innovation in digital transformation  | Coursera           | [PDF](./certificates/Project%20management%20and%20sustaining%20innovation%20in%20digital%20transformation.pdf)|
+| Certified Phishing Prevention Specialist                                | Hack&Fix           | [PDF](./certificates/Certified_Phishing_Prevention_Specialist.pdf)|
 
 ---
 
