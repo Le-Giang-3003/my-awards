@@ -38,6 +38,7 @@ This repository showcases my continued efforts in personal development, academic
 | Education and Digital Human Resource Development                        | Coursera           | [PDF](./certificates/Education_and_Digital_Human_Resource_Development.pdf)     |
 | Project management and sustaining innovation in digital transformation  | Coursera           | [PDF](./certificates/Project%20management%20and%20sustaining%20innovation%20in%20digital%20transformation.pdf)|
 | Certified Phishing Prevention Specialist                                | Hack&Fix           | [PDF](./certificates/Certified_Phishing_Prevention_Specialist.pdf)|
+| Generative AI for Educators with Gemini Certificate                     | Google             | [PDF](./certificates/Generative_AI_for_Educators_with_Gemini_Certificate.pdf)|
 
 ---
 
